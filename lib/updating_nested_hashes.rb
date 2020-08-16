@@ -9,7 +9,7 @@ def update_status
             {name: "Mercutio", age: "18", attitude: "hot-headed"}
     [
       },
-      epic_tragedy
+      epic_tragedy[:montague]
     end 
 
       :capulet => {
