@@ -9,7 +9,7 @@ def update_status
             {name: "Mercutio", age: "18", attitude: "hot-headed"}
     [
       },
-
+]
 
       :capulet => {
          :patriarch => {name: "Lord Capulet", age: "50"},
