@@ -20,7 +20,7 @@ def update_status
          {name: "Nurse", age: "44", attitude: "worried"}
          ]
       }
-  ],
+  
 
   
 
