@@ -9,7 +9,7 @@ def update_status
             {name: "Mercutio", age: "18", attitude: "hot-headed"}
     [
       },
-    end 
+
 
       :capulet => {
          :patriarch => {name: "Lord Capulet", age: "50"},
@@ -21,7 +21,7 @@ def update_status
          ]
       }
   ],
-end 
+
   
 
 
@@ -32,6 +32,7 @@ end
   
 
  puts epic_tragedy
+end 
 
 def add_characters
    epic_tragedy = {
